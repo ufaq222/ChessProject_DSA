@@ -1,6 +1,6 @@
-Chess Project
-Overview
-This project is a Chess AI game developed in Python, integrating advanced algorithms and data structures to create an intelligent and challenging opponent for human players. The game supports both Human vs Human and Human vs AI modes, providing a comprehensive chess playing experience.
+#Chess Project
+#Overview
+#This project is a Chess AI game developed in Python, integrating advanced algorithms and data structures to create an intelligent and challenging opponent for human players. The game supports both Human vs Human and Human vs AI modes, providing a comprehensive chess playing experience.
 Features
 •	Human vs Human mode
 •	Human vs AI mode with a challenging AI opponent
