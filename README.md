@@ -121,8 +121,6 @@ This project is a Chess AI game developed in Python, integrating advanced algori
 
 ---
 
-## Acknowledgments  
-Special thanks to my mentors **Muhammad Waseem** and **Nazeef Ul Haq** for their guidance and support.  
 
 ---
 
